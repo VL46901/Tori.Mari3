@@ -1,0 +1,1 @@
+VLBRIDE is a wedding beauty business currently specializing in Bridal Hair and Makeup.  I created a simple info file with information privy to the RSVP process in my workflow to help bride-to-bes in decision making
